@@ -1,0 +1,27 @@
+.removeWorkBlock{
+    min-height: 25vh;
+    background-color: #fffa66;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.removeWorkContainer{
+    border: 1px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title{
+    background-color: silver;
+}
+
+.button{
+    background-color: silver;
+    border: none;
+}
+
+
+
